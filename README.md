@@ -188,7 +188,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
 
 ## CIRCUIT DIAGRAM:
-![](./img1.jpg)
+<img src ="img1.jpg" height=500 width=800>
 
 ## STM 32 CUBE PROGRAM :
 
@@ -348,10 +348,10 @@ void key()
 ```
 
 ## Output screen shots of proteus  :
- ![](./img2.jpg)
+<img src ="img2.jpg" height=500 width=800>
  
  ## CIRCUIT DIAGRAM:
-![alt text](image.png)
+<img src ="image.png" height=500 width=800>
  
 ## Result :
 Interfacing a 4x4 keypad with ARM microcontroller are simulated in proteus and the results are verified.
